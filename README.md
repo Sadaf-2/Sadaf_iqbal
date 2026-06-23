@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Sadaf Iqbal
+# Sadaf Iqbal
 
-### Frontend Developer | BSCS (Artificial Intelligence) Student | Future Software Engineer
+### Frontend Developer | BSCS (Artificial Intelligence) Student | 
 
 Welcome to my GitHub profile! I am a passionate Frontend Developer and Artificial Intelligence student with a strong interest in creating modern, responsive, and user-friendly web applications. I enjoy transforming ideas into interactive digital experiences using modern web technologies while continuously exploring the world of AI and Machine Learning.
 
